@@ -1,4 +1,4 @@
-# C - Binary trees project
+# C - Binary trees
 
 This was a partner project in which we learned about the details, advantages,
 and disadvantages of using trees as data structures. We learned about how to
